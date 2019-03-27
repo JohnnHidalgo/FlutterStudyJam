@@ -1,0 +1,4 @@
+#Tue Mar 26 19:52:26 BOT 2019
+base.0=C\:\\AndroidProjects\\Flutter-StudyJam\\FlutterStudyJam-2019\\smart_house_application\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
